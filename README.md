@@ -28,6 +28,9 @@ Using **Power BI**, I have cleaned, transformed, and visualized the data to deri
 1. **Download & Install Power BI Desktop** from [Microsoft's official site](https://powerbi.microsoft.com/)  
 2. **Clone this repository** or download the `.pbix` file from [https://github.com/snehah13/Road_Accident_Analysis]  
 3. **Open the .pbix file** in Power BI Desktop  
-4. Interact with the dashboard, filter data, and explore insights  
-
+4. Interact with the dashboard, filter data, and explore insights
+   
+### Author
+*sneha H*  
+GitHub: [snehah13](https://github.com/snehah13)
 
